@@ -1,6 +1,6 @@
 {
   "name": "logseq-searx-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SearX/SearXNG meta search integration for LogSEQ",
   "author": "Thorsten Zoerner <thorsten.zoerner@stromdao.com>",
   "homepage": "https://github.com/zoernert/logseq-searx",

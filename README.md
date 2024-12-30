@@ -2,6 +2,9 @@
 
 This plugin integrates SearX/SearXNG meta search into LogSEQ, allowing you to search directly from your blocks.
 
+![SearX Plugin Demo](./docs/searx-demo.gif)
+
+
 ## Features
 
 - Search in different categories:
